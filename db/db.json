@@ -77,5 +77,16 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "r",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
 }
